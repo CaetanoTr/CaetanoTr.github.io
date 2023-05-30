@@ -1,0 +1,280 @@
+IndividualID	FirstName		MiddleName	LastName		Gender	DateOfBirth	DateOfDeath	Comments
+Ind00001		Caetano	Júnior,				Traina			M		30-Dec-1954		
+Ind00002		Agma Juci		Machado		Traina			F		23-May-1963		
+Ind00003		Tatiana	Machado				Traina			F		10-Oct-1984		
+Ind00004		Carlos Augusto	Machado		Traina			M		20-Mar-1987		
+Ind00006		Aurora Sidney	Rocha		Traina			F		17-Feb-1925				CIC nº 159.819.318/09  R.G. nº 21.384.151 SSP/SP,    Residente em São Carlos-SP  Rua Treze de Maio nº 1664, Centro
+Ind00005		Caetano						Traina			M		23-Apr-1924				CIC nº 245.216.718/53  R.G. nº6.526.332 SSP/SP    Residente em São Carlos-SP  Rua Treze de Maio nº 1664, Centro
+Ind00008		Maria Conceição	Silveira	Machado			F		6-Feb-1934		
+Ind00007		Agapito	Moreira				Machado			M		15-Dec-1990	
+Ind00009		Antonio Fernando			Traina			M		30-Apr-1959		
+Ind00010		Eduardo 		Silveira	Machado			M		25-Nov-1959		
+Ind00025		Daniel			Silveira	Machado			M		28-Feb-1965		
+Ind00026		Antonio						Rocha e Silva	M			
+Ind00027		Emília										F			
+Ind00028		Joaquina					Rocha e Silva	F			
+Ind00029		Olinda						Rocha e Silva	F			
+Ind00030		Emília						Rocha e Silva	F			
+Ind00031		Jonas						Rocha e Silva	M			
+Ind00013		Jacinto						Rocha e Silva	M		1871		1926		Altura:1,70m  Cabelos: Pretos (grisalho)  Olhos: Castanhos
+Ind00014		Maria			de Souza	Rocha			F		20-Jul-1884	Nov-1968	Certidão de Registro no Serviço de Registros de Estrangeiros   Número 2.126  Em 22 de julho de 1941    consta:  Maria de Souza Rocha,   Portuguesa natural de Villa de Barqueiros  desembarcou no ano de 1892 no Rio de Janeiro da embarcação TAGOS.  Residia em São Carlos, Rua 13 de Maio número 56.O ano de nascimento é diferente em diversos documentos. Consta como:  -1882 na carteira do IAPFESP de 09-12-1966;  - 1884 no Certificado de Registros de Estrangeiros, de 22 de julho de 1941;  - 1885 na Carteira de Identidade da CPEF de 15--5-1929;  
+Ind00032		Elidia			Rocha		Ferreira		F			
+Ind00033		Joaquina Teresa	Rocha		Fernandes		F		11-Nov-1902				Nascida em 11 de novembro de 1902, as 04:30am
+Ind00034		Alexandrina	Rocha			Nastri			F			
+Ind00011		Elvira						Rocha			F					1995		Residente em São Carlos-SP  Rua José Bonifácio nº 1115, Centro
+Ind00012		Maria			Rocha		Pinto			F		15-Aug-1910	Jun-1990	
+Ind00015		Gaudina						Rocha			F			
+Ind00016		Laura			Rocha		de Paula		F		30-Jun-1914	2002		CIC nº 101.351.618/43, e do R.G. nº 18.489.294 SSP/SP, viuva de Francisco de Paula    Morou em São Carlos-SP na Rua Treze de Maio nº 1550, até ser levada para Piracicaba pela filha, Dina
+Ind00017		Joaquim (Quincas)			Rocha			M		26-Apr-1920	29-Jun-1996	Nascido em São Carlos-SP, dia 26 de abril de 1920 as 9h15 da manha.    Residente em São Carlos-SP  Rua José Bonifácio nº 1115, Centro
+Ind00018		Jacinto (Dote)	Filho,		Rocha e Silva	M			
+Ind00019		Olga			Rocha		Miceli			F		19-Jul-1920	18-Sep-2004	R.G. nº  29.167.675-3 SSP/SP  Residente em São Carlos-SP  Rua 13 de Maio nº 1150, Centro..LOC Em São Carlos. Estava internada na Clínica para Idosos Cantinho da Luz.
+Ind00020		Carlos						Rocha e Silva	M		20-Feb-1923	2-Nov-1997	CIC nº 030.592.948/87  R.G.nº 12.814.845-SSP/SP    Residente em São Carlos-SP  Rua José Bonifácio nº 1115, Centro
+Ind00035		Antonio						Rocha e Silva	M		1-Oct-1908		
+Ind00021		Domingos Carlos				Miceli			M		25-Jul-1929		
+Ind00024		Silvia Terezinha	Rocha	Miceli			F		23-Jan-1959		
+Ind00036		Benedito					Ferreira		M			
+Ind00037		Iracema (Cema)	Ferreira	Thans			F		27-Jan-1922		do lar,  CIC nº 246.653.158-50  R.G. nº 14.576.311 SSP/SP  Residente em Rio Claro, na Avenida 18 nº 673, 
+Ind00038		Adagoberto					Ferreira		M		2-Mar-1923		aposentado  CIC nº 122.090.668/91  Residente em Rio Claro-SP na Av. 36  nº 128
+Ind00039		Roberto						Ferreira		M			
+Ind00040		Irene			Ferreira	Lorenson		F		26-Nov-1926		CIC nº 250.520.868-90  R.G. nº 14.575.714 SSP/SP  Residente em Rio Claro, na Rua 4B nº 1004
+Ind00041		Iraci						Ferreira		F			
+Ind00042		Elidya (Bela)	Ferreira	Bortolucci		F		29-May-1930		CIC nº 045.162.338-00  R.G. nº 16.809.889 SSP/SP  Residentes em Araras, na Rua Treze de Maio nº 263, 
+Ind00043		Shirley Apparecida	Ferreira	Schio		F		2-Dec-1934		CIC nº 160.776.218-89  R.G. nº 14.577.310 SSP/SP  Residente em Rio Claro, na Av. 7 nº 1254
+Ind00044		Eriberto					Ferreira		M			
+Ind00045		Armando						Fernandes		M			
+Ind00046		Armando (Lico) Júnior,		Fernandes		M		30-Sep-1929		CIC nº 004.657.471/91  R.G. nº 2.944.076 SSP/SP  Residentes em Anápolis- GO, à Travessa D. Senhora  nº 60, Centro    Mudou-se Para São Carlos
+Ind00047		Arminda (Lila)	Fernandes	de Oliveira		F		4-Apr-1932		CIC nº 632.962.841/68  R.G. nº  7.361.634  SP/SP  Travessa Av. Contorno nº 779, Centro  Anápolis - GO
+Ind00048		Armirdo (Lili)				Fernandes		M		15-Mar-1934		CIC nº 016.208.948/15  R.G. nº 3.119.489 SSP/SP    Residente em São Carlos-SP   Rua São Joaquim nº 1753
+Ind00049		Nicola						Nastri			M			
+Ind00050		Olga Terezinha (Ninha) Rocha Nastri	Cereda	F		17-Jun-1941		CIC nº 242.303.248/04  R.G. nº4.889.397 SSP/SP,     Residente em São Carlos-SP  Rua Rua Antonio Rodriguês Cajado, 888
+Ind00051		Luiza	Menegatti da Silva	Rocha			F		22-Nov-1909		
+Ind00052		Jacinto David				Rocha			M			
+Ind00053		José Geraldo				Rocha			M			
+Ind00022		Antonio		Teixeira 		Pinto			M		17-Oct-1909		
+Ind00054		Maria Ignez (Neizinha) Teixeira Pinto		F		14-Jul-1937		CIC nº 202.024.668/68    Residente em São Carlos - SP  Rua Dom Pedro II  nº 1482, Centro
+Ind00055		Maria Celia (Celinha) Teixeira Pinto		F			
+Ind00056		Francisco 					de Paula		M		15-Mar-1914	1982	
+Ind00023		Dina Aparecida	Rocha		de Paula		F		24-Jan-1959		
+Ind00057		Assunta			Cosmano e 	Silva			F			
+Ind00058		Neuza Aparecida	Rocha e Silva	Correa		F		8-Nov-1948		CIC nº 195.101.728/55  R.G. nº 24.498.410-4 SSP/SP    Residentes em São Carlos-SP  Rua Cândido Padim nº 542, Bela Vista
+Ind00059		Neide Terezinha	Rocha		Balassoni		F		2-Aug-1943		CIC nº 246.839.998/62  R.G. nº 17.037.071 SSP/SP    Residente em São Carlos-SP  Rua Cidade de Milão nº 660, Bela Vista
+Ind00060		Carlos Adriano				Rocha e Silva	M		4-Nov-1949		CIC 551.247.128/72   R.G. 6.681.069 SSP/SP  Residente em São Carlos-SP  Av. Salum nº 1447
+Ind00061		Sueli de Lourdes Rocha		Gonçalves		F		19-Aug-1951		CIC nº 551.247.398/00  R.G. nº 16.835.572  SSP/SP    Residentes em São Carlos-SP  Rua Antônio de Almeida Leite, nº 649, Bela Vista 
+Ind00062		Manuel 						Rocha e Silva	M			
+Ind00063		Joaquina Tereza				Carinhas		F			
+Ind00064		Joaquim						Rocha e Silva	M			
+Ind00065		Lídia			Rocha e Silva	Russo		F			
+Ind00067		Domingos					Russo			M			
+Ind00068		Maria (Cota)	Russo		Marba			F			
+Ind00069		Lidioneta (Nêta) Russo		Baungartner		F			
+Ind00070		Iracema (Sema)	Russo		Ferro			F			
+Ind00071		Assunta			Russo		Rugiero			F			
+Ind00072		Ramon						Marba			M			
+Ind00073		Ercílio						Baungartner		M			
+Ind00074		Francisco					Ferro			M			
+Ind00075			Rugiero	M			
+Ind00076		Carlos 						Pinto Canário	M			
+Ind00077		Anna			Souza		Pinto Canário	F			
+Ind00079		Adriano						Pinto Canário	M			
+Ind00080		Vidoca										F			
+Ind00081		Alexandre Júnior			Cereda			M		30-Nov-1933		Residente em São Carlos-SP  Rua Rua Antonio Rodriguês Cajado, 888
+Ind00082		Lourdes			Merino		Fernandes		F		26-Nov-1938		CIC nº 162.093.228/83  R.G. nº 3.329.485 SSP/SP    Residente em São Carlos-SP  Rua São Joaquim nº 1753
+Ind00083		Maria do Carmo				Ferreira		F			
+Ind00084		Diomar						Ferreira		F			
+Ind00085		Walter						Ferreira		M			
+Ind00086		Olga										F			Viveu em Portugal
+Ind00087		Roberto						Marba			M			
+Ind00088		Iracema						Baungartner		F			
+Ind00089		Elvira						Russo			F			
+Ind00090		Albina			Reginato	Traina			F		1980	
+Ind00091		Jacob						Traina			M			
+Ind00092		Ana							Traina			F			
+Ind00093		Nelson Pedro				Traina			M			
+Ind00094		Pedro Nelson				Traina			M			
+Ind00095		Ermenegilda (Zilda)	Traina	Grandi			F			
+Ind00096		Mario						Traina			M			
+Ind00097		Josefina (Pina)	Traina		Prioli			F			
+Ind00098		Maria Teresa	Traina		Roveratti		F			
+Ind00099		Lúcia			Traina		Thile			F			
+Ind00100		Alfredo						Thile			M			
+Ind00101		Melba			Traina		Thile			F			
+Ind00102		Carlos			Traina		Thile			M			
+Ind00103		Lucia (Lucinha)				Thile			F			
+Ind00104		Alexandre					Roveratti		M			
+Ind00105		Haydee						Roveratti		F			
+Ind00106		Hélio						Roveratti		M			
+Ind00107		Antonio						Prioli			M			
+Ind00108		Antonio Rui					Prioli			M			
+Ind00109		José Roberto				Prioli			M			
+Ind00110		Adoração									F			
+Ind00111		Raquel			Traina		Camargo			F			
+Ind00112		Sidney						Traina			M			
+Ind00113		Marinho						Traina			M			
+Ind00114		Beatriz			Traina		Dinardi			F			
+Ind00115		José						Grandi			M			
+Ind00116		Carlos Augusto				Grandi			M			
+Ind00117		Celso Amâncio				Grandi			M			Médico
+Ind00118		Clélia Angélica				Grandi			F			
+Ind00119		Célia Ângela				Grandi			M			
+Ind00120		Maria Luiza					Traina			F			
+Ind00121		Maria Cristina				Prioli			F			
+Ind00122		Maria Regina				Prioli			F			
+Ind00123		Ricardo						Prioli			M			
+Ind00124		Lilian										F			
+Ind00125		Cecília										F			
+Ind00126		Hélio	Júnior,	Roveratti	M			Foi criado pela tia Haydee
+Ind00127		João		Bortolucci	M	1-Apr-1927		CIC nº 269.893.528/68  R.G. nº 4.431.676 SSP/SP  Residentes em Araras, na Rua Treze de Maio nº 263, 
+Ind00128		Job		Thans	M	9-Mar-1921		CIC nº 517.048.628/68  R.G. nº9.248.349 SSP/SP
+Ind00129		Eva	Evangelista	Ferreira	F	6-Sep-1924		Eva Evangelista Ferreira  CIC nº 253.495.448/29  R.G. nº 26.289.388-5 SSP/SP
+Ind00130		Aprígio Antero		Lorenson	M	5-Jan-1918		CIC nº 152.988.928/68  R.G. nº 10.382.599 SSP/SP
+Ind00131		João Batista		Schio	M	7-Jul-1908		CIC nº 131.354.738/72  R.G. nº 14.577.309 SSP/SP,  Residente em Rio Claro  Av. 7 nº 1254
+Ind00132		Noemia	Buffa	Fernandes	F	26-Apr-1931		CIC nº 376.949.601/91  R.G. nº 4.544.258 SSP/SP  Residiram em Anápolis- GO  Travessa D. Senhora  nº 60, Centro    Mudou-se para São Carlos  
+Ind00133		José Germino 		de Oliveira	M	23-Mar-1934		CIC nº 270.605.868/49  R.G. nº 2.686.411 SSP/SP  Travessa Av. Contorno nº 779, Centro  Anápolis - GO
+Ind00134		Romualdo		Ferro	M	16-Apr-1941		CIC nº 148.919.488/68  R.G. nº 2.854.241 SSP/SP  Residente em São Carlos - SP  Rua Dom Pedro II  nº 1482, Centro
+Ind00135		Carlos		Balassoni	M	30-Sep-1939		CIC nº 195.091.628/68  R.G. nº 2.668.188-0 SSP/SP  Residentes em São Carlos-SP  Rua Cidade de Milão nº 660, Bela Vista
+Ind00136		João José		Gonçalves	M	30-Oct-1947		CIC nº 394.674.578/49  R.G. nº 4.674.948 SSP/SP  Residentes em São Carlos-SP  Rua Antônio de Almeida Leite, nº 649, Bela Vista 
+Ind00137		Zualdo		Correa	M	8-Sep-1930		CIC nº 400.765.478/68  R.G. nº 27.877.578-0 SSP/SP Residente em São Carlos-SP  Rua Cândido Padim nº 542, Bela Vista
+Ind00138		Maria 		Machado	F			
+Ind00139		Manuel		Moreira	M			
+Ind00140		Lurdes (Lurdinha)		Machado	F			
+Ind00141		Enedina		Machado Moreira	F			
+Ind00142		Esmerinda		Machado Moreira	F			
+Ind00143		Dora		Machado Moreira	F			
+Ind00144		Eulina		Machado Moreira	F			
+Ind00145		Francisco		Machado Moreira	M			
+Ind00146		Clara		Machado Moreira	F			
+Ind00147		José	Dias da Paixão	Silveira	M	10-Apr-1900	16-Sep-1942	
+Ind00148		Ida	Brida	Silveira	F	21-Jul-1905	11-Feb-1986	
+Ind00149		Manuel (Tio Neizinho)		Brida	M			
+Ind00150		Plácido	Dias	Silveira	M			
+Ind00151		Elsa	Silveira	Riegel	F	29-Jun-1931		
+Ind00152		Darcy	Silveira	Valente	F			
+Ind00153		Sebastião	Dias	Silveira	M			
+Ind00154		Albertina			F			
+Ind00155		José Carlos		Brida	M			
+Ind00156		Vivian		Brida	F			
+Ind00157		Flávia		Brida	F			
+Ind00158		Rodrigo		Brida	M			
+Ind00159		Cláudia		Brida	F			
+Ind00160		Nair	Esteves	Silveira	F			
+Ind00161		Sílvia		Silveira	F			
+Ind00162		Roseana		Silveira	F			
+Ind00163		Silvana		Silveira	F			
+Ind00164		Marcos			M			
+Ind00165		Débora			F			
+Ind00166		Gabriela			F			
+Ind00167		Antônio Carlos			M			
+Ind00168		Laudelino	Rodrigues	Riegel	M	27-Mar-1932	31-Mar-2004	
+Ind00169		Carlos Roberto		Riegel	M	8-Jul-1957		
+Ind00171		Eliane		Riegel	F	31-Mar-1965		
+Ind00172		Nilsa	Romero	Riegel	F	29-Apr-1960		
+Ind00174		Oto		Souza Júnior	M			
+Ind00175		João Vitor		Riegel	M	19-Sep-2001		
+Ind00176		Nelson		Valente	M			
+Ind00177		Ricardo		Valente	M			
+Ind00178		Roberto		Valente	M			
+Ind00179		Renato		Valente	M			
+Ind00180		Vânia			F			
+Ind00181		Adriana		Valente	F			
+Ind00182		Bruno		Valente	M			
+Ind00183		Anigláucia (Lili)			F			
+Ind00184		Lartna		Valente	F			
+Ind00185		Cristina		Valente	F			
+Ind00186		Carolina		Valente	F			
+Ind00187		Fábio		Valente	M			
+Ind00188		Ana			F			
+Ind00189		Ana Flávia		Valente	F			
+Ind00190		Elin		Storch	F			
+Ind00191		Samuel		Silveira	M			
+Ind00192		Luis Fernando (Ted)		Silveira	M			
+Ind00193		Yara Nancy		Silveira	F			
+Ind00194		Márcia		Silveira	F			
+Ind00195					F			
+Ind00196		Priscila		Silveira	F			
+Ind00197		Samuel	Júnior,	Silveira	M			
+Ind00198		Ramon (Ramonzinho), Filho		Marba	M			
+Ind00199		Christiane	Pignanelli	Scharlack	F	6-Mar-1972		
+Ind00200		Maria Conceição	Arighe	Brida	F	1881	Nov-1957	Datas coletadas de lembrança por Tia Elsa e Maria Conceição
+Ind00201		Plácido		Brida	M	28-Jul-1877	12-Oct-1943	
+Ind00202		Henriquetta		Brida	F			
+Ind00203		Basílio		Brida	M	1833	15-Jan-1911	Na Itália
+Ind00204		Ernesto		Thans	M			
+Ind00205		Juliana	Romero	Riegel	F	19-Nov-1986		
+Ind00206		Cesar	Romero	Riegel	M	16-Mar-1993		
+Ind00207		Santina		Brida	F			
+Ind00208		Antonieta		Arighe	F			
+Ind00209		Ângelo		Arighe	M			
+Ind00210		Manuela	Dias 	Duarte	F			
+Ind00211		João Celestino		da Silveira	M			
+Ind00212		Deolinda	Rodrigues	Riegel	F			
+Ind00213		Laudelino		Riegel	M
+
+FamilyID		MarriageDate	ParentIDs	ChildrenIDs	Comments
+Fam00001		23-Jul-1984	Ind00001,Ind00002	Ind00003,Ind00004	
+Fam00002		4-Nov-1957	Ind00007,Ind00008	Ind00010,Ind00002,Ind00025	
+Fam00003			Ind00026,Ind00027	Ind00028,Ind00029,Ind00030,Ind00031	
+Fam00004			Ind00013,Ind00014	Ind00032,Ind00033,Ind00034,Ind00011,Ind00035,Ind00012,Ind00015,Ind00016,Ind00017,Ind00018,Ind00019,Ind00020,Ind00006	
+Fam00005			Ind00021,Ind00019	Ind00024	
+Fam00006			Ind00036,Ind00032	Ind00037,Ind00038,Ind00039,Ind00040,Ind00041,Ind00042,Ind00043,Ind00044	
+Fam00007			Ind00045,Ind00033	Ind00046,Ind00047,Ind00048	
+Fam00008			Ind00049,Ind00034	Ind00050	
+Fam00009			Ind00035,Ind00051	Ind00052,Ind00053	
+Fam00010			Ind00022,Ind00012	Ind00054,Ind00055	
+Fam00011			Ind00056,Ind00016	Ind00023	
+Fam00012			Ind00018,Ind00057	Ind00059,Ind00058,Ind00060,Ind00061	
+Fam00013	19-Apr-1953	Ind00005,Ind00006	Ind00001,Ind00009	
+Fam00014			Ind00062	Ind00013	
+Fam00015			Ind00062,Ind00063	Ind00064,Ind00026	
+Fam00017			Ind00067,Ind00065	Ind00068,Ind00069,Ind00070,Ind00071,Ind00089	
+Fam00018			Ind00072,Ind00068	Ind00087,Ind00198	
+Fam00019			Ind00073,Ind00069	Ind00088	
+Fam00020			Ind00074,Ind00070		
+Fam00024			Ind00079,Ind00080		
+Fam00025			Ind00081,Ind00050		
+Fam00026			Ind00048,Ind00082		
+Fam00027			Ind00009,Ind00083		
+Fam00028			Ind00085,Ind00084	Ind00083	
+Fam00029			Ind00076,Ind00077	Ind00065,Ind00079,Ind00014,Ind00086	
+Fam00030			Ind00075,Ind00071		
+Fam00031			Ind00091,Ind00090	Ind00005,Ind00092,Ind00099,Ind00098,Ind00097,Ind00096,Ind00095,Ind00093,Ind00094	
+Fam00032			Ind00100,Ind00099	Ind00101,Ind00102,Ind00103	
+Fam00033			Ind00104,Ind00098	Ind00105,Ind00106	
+Fam00034			Ind00107,Ind00097	Ind00108,Ind00109	
+Fam00035			Ind00096,Ind00110	Ind00111,Ind00112,Ind00113,Ind00114	
+Fam00036			Ind00115,Ind00095	Ind00116,Ind00117,Ind00118,Ind00119	
+Fam00037			Ind00108,Ind00120	Ind00121,Ind00122,Ind00123	
+Fam00038			Ind00109,Ind00124		
+Fam00039			Ind00106,Ind00125	Ind00126	
+Fam00040			Ind00127,Ind00042		
+Fam00041			Ind00128,Ind00037	Ind00204	
+Fam00042			Ind00038,Ind00129		
+Fam00043			Ind00130,Ind00040		
+Fam00044			Ind00131,Ind00043		
+Fam00045			Ind00046,Ind00132		
+Fam00046			Ind00133,Ind00047		
+Fam00047			Ind00134,Ind00054		
+Fam00048			Ind00135,Ind00059		
+Fam00049			Ind00136,Ind00061		
+Fam00050			Ind00137,Ind00058		
+Fam00051			Ind00139,Ind00138	Ind00146,Ind00143,Ind00145,Ind00142,Ind00144,Ind00141,Ind00007,Ind00140	
+Fam00052			Ind00147,Ind00148	Ind00149,Ind00150,Ind00151,Ind00008,Ind00152,Ind00153	
+Fam00053			Ind00149,Ind00154	Ind00155	
+Fam00054			Ind00155,Ind00156	Ind00159,Ind00158,Ind00157	
+Fam00055			Ind00150,Ind00160	Ind00161,Ind00162,Ind00163	
+Fam00056			Ind00164,Ind00161	Ind00165,Ind00166	
+Fam00057			Ind00167,Ind00162		
+Fam00058		15-Sep-1956	Ind00168,Ind00151	Ind00169,Ind00171	
+Fam00059			Ind00169,Ind00172	Ind00205,Ind00206	
+Fam00061			Ind00174,Ind00171	Ind00175	
+Fam00062			Ind00176,Ind00152	Ind00177,Ind00179,Ind00178,Ind00187	
+Fam00063			Ind00179,Ind00180	Ind00181,Ind00182	
+Fam00064			Ind00178,Ind00183	Ind00184,Ind00185,Ind00186	
+Fam00065			Ind00187,Ind00188	Ind00189	
+Fam00066			Ind00153,Ind00190	Ind00191,Ind00192,Ind00193,Ind00194	
+Fam00067			Ind00191,Ind00195	Ind00196,Ind00197	
+Fam00068		21-Aug-1997	Ind00025,Ind00199		
+Fam00069			Ind00201,Ind00200	Ind00148	
+Fam00070			Ind00203,Ind00202	Ind00201,Ind00207	
+Fam00071			Ind00209,Ind00208	Ind00200	
+Fam00072			Ind00211,Ind00210	Ind00147	
+Fam00073			Ind00213,Ind00212	Ind00168	
