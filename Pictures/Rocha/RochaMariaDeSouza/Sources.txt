@@ -56,7 +56,7 @@ https://familysearch.org/ark:/61903/1:1:6DGL-RWCB
 Where The Record Is Found (Citation)
 "Brasil, São Paulo, Registros da Igreja Católica, 1640-2012", database with images, FamilySearch (ark:/61903/1:1:6DGL-RWCT : Wed May 03 01:25:38 UTC 2023), Entry for Lidia Rocha and Jacintho Rocha, 19 de abril de 1901.
 
---------------------------------------------------------------------------------------------
+--==========================================================================================
 Batismo de Joaquina
 /Rocha/FernandesJoaquinaTeresaRocha/Joaquina-Batismo.jpg
 /Rocha/FernandesJoaquinaTeresaRocha/Joaquina-Batismo-Capa.jpg
@@ -69,7 +69,22 @@ Event Place	Catedral de São Carlos, São Carlos, São Paulo, Brasil
 https://familysearch.org/ark:/61903/1:1:6DGJ-CXVY
 Where The Record Is Found (Citation)
 "Brasil, São Paulo, Registros da Igreja Católica, 1640-2012", database with images, FamilySearch (ark:/61903/1:1:6DGJ-CXVR : Fri May 12 02:12:13 UTC 2023), Entry for Joaquina and Mata Martos, 24 de dezembro de 1902.
+
 --------------------------------------------------------------------------------------------
+Óbito de Joaquina Teresa Rocha Fernandes, 
+Rocha/FernandesJoaquinaTeresaRocha/Joaquina-Obito.jpg
+Rocha/FernandesJoaquinaTeresaRocha/Joaquina-Obito-Capa.jpg
+
+Name	Joaquina Teresa Rocha Fernandes
+Age	45
+Death Date	3 May 1948
+Event Place	São Paulo, Brasil
+
+https://familysearch.org/ark:/61903/1:1:6XZP-TT86
+Where The Record Is Found (Citation)
+"Brasil, São Paulo, Registro Civil, 1925-1995", database, FamilySearch (ark:/61903/1:1:6XZP-TT84 : Sat Jun 03 10:27:31 UTC 2023), Entry for Joaquina Teresa Rocha Fernandes and Jacinto Rocha e Silva, 3 May 1948.
+
+--==========================================================================================
 Christening of Alexandrina
 Rocha\NastriAlexandrinaRocha\Alexandrina-Batismo.jpg
 Rocha\NastriAlexandrinaRocha\Alexandrina-Batismo-Capa.jpg
@@ -84,58 +99,6 @@ Event Place Catedral de São Carlos, São Carlos do Pinhal, São Paulo, Brasil
 https://familysearch.org/ark:/61903/1:1:6DGJ-8SZ1
 Where The Record Is Found (Citation)
 "Brasil, São Paulo, Registros da Igreja Católica, 1640-2012", database with images, FamilySearch (ark:/61903/1:1:6DGJ-8SZY : Thu May 04 03:52:51 UTC 2023), Entry for Alexandrina da Rocha Silva and Matheus Pugliere, 6 de janeiro de 1905.
-
---------------------------------------------------------------------------------------------
-Christening of Elvira
-Rocha\RochaElvira\Elvira-Batismo.jpg
-
-Name	Elvira de Souza Rocha
-Sex	Female
-Birth Date	23 de janeiro de 1906
-Event Type	Christening
-Event Date	30 de maio de 1907
-Event Place	Catedral de São Carlos, São Carlos, São Paulo, Brasil
-
-https://familysearch.org/ark:/61903/1:1:6DGV-NM5Y
-Where The Record Is Found (Citation)
-"Brasil, São Paulo, Registros da Igreja Católica, 1640-2012", database with images, FamilySearch (ark:/61903/1:1:6DGV-NM5R : Mon May 01 16:09:28 UTC 2023), Entry for Elvira de Souza Rocha and P. Francisco Marottoli, 30 de maio de 1907.
-
---------------------------------------------------------------------------------------------
-Christening of Joaquim
-Rocha/RochaJoaquim-Quincas/Joaquim-Batismo.jpg
-
-Name	Joaquim
-Birth Date	26 de abril de 1916
-Birthplace	
-Event Type	Christening
-Event Date	30 de setembro de 1916
-Event Place	Catedral de São Carlos, São Carlos, São Paulo, Brasil
-
-https://familysearch.org/ark:/61903/1:1:66YF-6CZT
-Where The Record Is Found (Citation)
-"Brasil, São Paulo, Registros da Igreja Católica, 1640-2012", database with images, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:66YF-6CZT : 4 May 2023), Dom Maria in entry for Joaquim, 1916.
-
---------------------------------------------------------------------------------------------
-Casamento de Jacyntho Rocha e Silva (Dote) + Assunta Cosmano
-Rocha/RochaESilvaJacintoDote/Dote-Casa.jpg
-Rocha/RochaESilvaJacintoDote/Dote-Casa-Capa.jpg
-
-https://familysearch.org/ark:/61903/1:1:6X83-LZB6
-Where The Record Is Found (Citation)
-"Brasil, São Paulo, Registro Civil, 1925-1995", database, FamilySearch (ark:/61903/1:1:6X83-LZBC : Sat Jun 17 18:27:12 UTC 2023), Entry for Jacyntho Rocha e Silva and Jacyntho Rocha e Silva, 9 Jul 1940.
---------------------------------------------------------------------------------------------
-Óbito de Joaquina Teresa Rocha Fernandes, 
-Rocha/FernandesJoaquinaTeresaRocha/Joaquina-Obito.jpg
-Rocha/FernandesJoaquinaTeresaRocha/Joaquina-Obito-Capa.jpg
-
-Name	Joaquina Teresa Rocha Fernandes
-Age	45
-Death Date	3 May 1948
-Event Place	São Paulo, Brasil
-
-https://familysearch.org/ark:/61903/1:1:6XZP-TT86
-Where The Record Is Found (Citation)
-"Brasil, São Paulo, Registro Civil, 1925-1995", database, FamilySearch (ark:/61903/1:1:6XZP-TT84 : Sat Jun 03 10:27:31 UTC 2023), Entry for Joaquina Teresa Rocha Fernandes and Jacinto Rocha e Silva, 3 May 1948.
 
 --------------------------------------------------------------------------------------------
 Óbito de Alexandrina Sousa Rocha Nastri
@@ -153,33 +116,21 @@ Certificate Number	2591
 https://familysearch.org/ark:/61903/1:1:6XZP-LW4V
 Where The Record Is Found (Citation)
 "Brasil, São Paulo, Registro Civil, 1925-1995", database, FamilySearch (ark:/61903/1:1:6XZP-LW4N : Thu Jun 29 23:06:23 UTC 2023), Entry for Alexandrina Sousa Rocha Nastri and Jacinto Rocha, 18 Aug 1948.
---------------------------------------------------------------------------------------------
-Casamento de Francisco de Paula + Laura Rocha e Silva
-Rocha/PaulaLauraRochaDe/Laura-Casa.jpg
-Rocha/PaulaLauraRochaDe/Laura-Casa-Capa.jpg
 
-Francisco de Paula Birth Date	1914
-Event Date	27 Oct 1954
-Event Place	São Carlos, São Paulo, Brasil
-Certificate Number	5591
+--==========================================================================================
+Christening of Elvira
+Rocha\RochaElvira\Elvira-Batismo.jpg
 
-https://familysearch.org/ark:/61903/1:1:6XZB-TVT9
+Name	Elvira de Souza Rocha
+Sex	Female
+Birth Date	23 de janeiro de 1906
+Event Type	Christening
+Event Date	30 de maio de 1907
+Event Place	Catedral de São Carlos, São Carlos, São Paulo, Brasil
+
+https://familysearch.org/ark:/61903/1:1:6DGV-NM5Y
 Where The Record Is Found (Citation)
-"Brasil, São Paulo, Registro Civil, 1925-1995", database, FamilySearch (ark:/61903/1:1:6XZB-TVRX : Sun Jun 04 18:58:55 UTC 2023), Entry for Francisco de Paula and Santo Paula, 27 Oct 1954.
---------------------------------------------------------------------------------------------
-Óbito de Jacyntho Rocha e Silva - Dote
-Rocha/RochaESilvaJacintoDote/Dote-Obito.jpg
-Rocha/RochaESilvaJacintoDote/Dote-Obito-Capa.jpg
-
-Age	45
-Death Date	13 Mar 1963
-Event Date	14 Mar 1963
-Event Place	São Carlos, São Paulo, Brasil
-Certificate Number	10284
-
-https://familysearch.org/ark:/61903/1:1:6XZR-MPZ6
-Where The Record Is Found (Citation)
-"Brasil, São Paulo, Registro Civil, 1925-1995", database, FamilySearch (ark:/61903/1:1:6XZR-MPZC : Thu Jun 29 18:51:39 UTC 2023), Entry for Jacyntho Rocha e Silva and Jacyntho Rocha e Silva, 14 Mar 1963.
+"Brasil, São Paulo, Registros da Igreja Católica, 1640-2012", database with images, FamilySearch (ark:/61903/1:1:6DGV-NM5R : Mon May 01 16:09:28 UTC 2023), Entry for Elvira de Souza Rocha and P. Francisco Marottoli, 30 de maio de 1907.
 
 --------------------------------------------------------------------------------------------
 Óbito de Elvira Souza Rocha
@@ -195,7 +146,62 @@ Event Place	São Carlos, São Paulo, Brazil
 https://familysearch.org/ark:/61903/1:1:68V9-M2CZ
 Where The Record Is Found (Citation)
 "Brasil, São Paulo, Registro Civil, 1925-1995", database, FamilySearch (ark:/61903/1:1:68V9-M2CH : Sat Jun 03 09:38:29 UTC 2023), Entry for Elvira Souza Rocha and Jacyntho Rocha e Silva, 3 March 1995.
---------------------------------------------------------------------------------------------
+
+--==========================================================================================
+Christening of Joaquim
+Rocha/RochaJoaquim-Quincas/Joaquim-Batismo.jpg
+
+Name	Joaquim
+Birth Date	26 de abril de 1916
+Birthplace	
+Event Type	Christening
+Event Date	30 de setembro de 1916
+Event Place	Catedral de São Carlos, São Carlos, São Paulo, Brasil
+
+https://familysearch.org/ark:/61903/1:1:66YF-6CZT
+Where The Record Is Found (Citation)
+"Brasil, São Paulo, Registros da Igreja Católica, 1640-2012", database with images, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:66YF-6CZT : 4 May 2023), Dom Maria in entry for Joaquim, 1916.
+
+--==========================================================================================
+Casamento de Jacyntho Rocha e Silva (Dote) + Assunta Cosmano
+Rocha/RochaESilvaJacintoDote/Dote-Casa.jpg
+Rocha/RochaESilvaJacintoDote/Dote-Casa-Capa.jpg
+
+https://familysearch.org/ark:/61903/1:1:6X83-LZB6
+Where The Record Is Found (Citation)
+"Brasil, São Paulo, Registro Civil, 1925-1995", database, FamilySearch (ark:/61903/1:1:6X83-LZBC : Sat Jun 17 18:27:12 UTC 2023), Entry for Jacyntho Rocha e Silva and Jacyntho Rocha e Silva, 9 Jul 1940.
+
+--==========================================================================================
+Casamento de Francisco de Paula + Laura Rocha e Silva
+Rocha/PaulaLauraRochaDe/Laura-Casa.jpg
+Rocha/PaulaLauraRochaDe/Laura-Casa-Capa.jpg
+
+Francisco de Paula Birth Date	1914
+Event Date	27 Oct 1954
+Event Place	São Carlos, São Paulo, Brasil
+Certificate Number	5591
+
+https://familysearch.org/ark:/61903/1:1:6XZB-TVT9
+Where The Record Is Found (Citation)
+"Brasil, São Paulo, Registro Civil, 1925-1995", database, FamilySearch (ark:/61903/1:1:6XZB-TVRX : Sun Jun 04 18:58:55 UTC 2023), Entry for Francisco de Paula and Santo Paula, 27 Oct 1954.
+
+--==========================================================================================
+Óbito de Jacyntho Rocha e Silva - Dote
+Rocha/RochaESilvaJacintoDote/Dote-Obito.jpg
+Rocha/RochaESilvaJacintoDote/Dote-Obito-Capa.jpg
+
+Age	45
+Death Date	13 Mar 1963
+Event Date	14 Mar 1963
+Event Place	São Carlos, São Paulo, Brasil
+Certificate Number	10284
+
+https://familysearch.org/ark:/61903/1:1:6XZR-MPZ6
+Where The Record Is Found (Citation)
+"Brasil, São Paulo, Registro Civil, 1925-1995", database, FamilySearch (ark:/61903/1:1:6XZR-MPZC : Thu Jun 29 18:51:39 UTC 2023), Entry for Jacyntho Rocha e Silva and Jacyntho Rocha e Silva, 14 Mar 1963.
+
+
+--==========================================================================================
 Óbito de Joaquim Rocha e Silva
 Rocha/RochaJoaquim-Quincas/Joaquim-Obito.jpg
 
@@ -205,7 +211,7 @@ Marital Status	Single
 Death Date	22 June 1996
 Event Place	São Carlos, São Paulo, Brazil
 
---------------------------------------------------------------------------------------------
+--==========================================================================================
 Casamento de Antonio Teixeira Pinto + Maria Rocha Da Silva
 Rocha/PintoMariaRocha/TiaMaria-Casamento.jpg
 Rocha/PintoMariaRocha/TiaMaria-Casamento-Capa.jpg
